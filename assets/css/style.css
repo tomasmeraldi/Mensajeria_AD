@@ -501,6 +501,7 @@ body {
 
 .hero-text {
   margin-block: 20px 15px;
+  display: flex;
 }
 
 .btn-outline {
@@ -913,6 +914,13 @@ body {
 
 .moto {
   width: 93%;
+}
+
+.fondo {
+  background-color: #ff88007f;
+  font-weight: bolder;
+  margin-left: 3px;
+  margin-right: 3px;
 }
 
 
